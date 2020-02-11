@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620909739297",
+    "firebase_url": "https://mentor-d9d2d.firebaseio.com",
+    "project_id": "mentor-d9d2d",
+    "storage_bucket": "mentor-d9d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620909739297:android:7f968c0a8ac18c23b1d260",
+        "android_client_info": {
+          "package_name": "com.psygon.tech.mentor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620909739297-0regqkac3l80nbe7k6uc75qlfqnlh45r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psygon.tech.mentor",
+            "certificate_hash": "043316d1cbbfb3708051214d08336e688cde59bd"
+          }
+        },
+        {
+          "client_id": "620909739297-5ligbqa7c28d6s15fmr9mgi6v6m6sjj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsBfxdWPgo7P2Ypdc_M2zn63x-tXtu4V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620909739297-5ligbqa7c28d6s15fmr9mgi6v6m6sjj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
